@@ -1,5 +1,13 @@
-# Program1
 UAS Bahasa Pemrograman
+
+# Link YouTube Tutorial Program
+
+LIhat [disini!]()
+
+# File Pdf Tutorial Program
+
+Lihat [disini!]()
+
 
 # Ketentuan Program
 ![gambar](ss/1.png)
@@ -49,7 +57,7 @@ def cari_data():
     from view.view_nilai import cari
     cari(input("Masukan nama yang dicari : "))
 ```
-2. **input_nilai.py**\
+2. **input_nilai.py**
 
 Selanjutnya saya membuat fungsi untuk meminta user memsaukan data / input yang berada pada file input_nilai.py yang berada pada modul view dan input user di gabung dengan fungsi yang sudah saya buat sebelumnya pada daftar_nilai.py untuk memasukan inputan user ke database(dictionary)
 
@@ -78,7 +86,7 @@ def ubah_data():
     proses_ubah_data(input("Masukan data yang ingin diubah : "))
 ```
 
-3. **view_nilai**
+3. **view_nilai.py**
 
 Selanjutnya saya membuat fungsi untuk menampilkan semua data yang ada dan fungsi untuk menampilkan hasil pencarian user dengan menggunakan modul tabulate data untuk mempercantik tabel dan memanggil database(dictionary) yang ada pada modul ```daftar_nilai.py```
 
@@ -170,3 +178,4 @@ while True:
 6. Keluar
 
 ![gambar](ss/k.png)
+
