@@ -8,6 +8,7 @@ UAS Bahasa Pemrograman
 Untuk membuat Program tersebut pertama buat package yang berisi file seperti dalam ketentuan di atas.
 
 1. **daftar_nilai.py**
+
 File ini terletak pada folder model dan berisi beberapa fungsi yaitu tambah_data, ubah_data, hapus_data, dan cari_data dan berisi database berupa dictionary
 
 Berikut Code Program ```daftar_nilai.py```
@@ -48,7 +49,8 @@ def cari_data():
     from view.view_nilai import cari
     cari(input("Masukan nama yang dicari : "))
 ```
-2. **input_nilai.py**
+2. **input_nilai.py**\
+
 Selanjutnya saya membuat fungsi untuk meminta user memsaukan data / input yang berada pada file input_nilai.py yang berada pada modul view dan input user di gabung dengan fungsi yang sudah saya buat sebelumnya pada daftar_nilai.py untuk memasukan inputan user ke database(dictionary)
 
 Berikut Code Perogram yang berada pada ```input_nilai.py```
@@ -77,6 +79,7 @@ def ubah_data():
 ```
 
 3. **view_nilai**
+
 Selanjutnya saya membuat fungsi untuk menampilkan semua data yang ada dan fungsi untuk menampilkan hasil pencarian user dengan menggunakan modul tabulate data untuk mempercantik tabel dan memanggil database(dictionary) yang ada pada modul ```daftar_nilai.py```
 
 Berikut code program ```view_nilai.py```
@@ -96,14 +99,11 @@ def cari(nama):
             print("Upss Data Tidak Ditemukan! ")
 ```
 4. **main.py**
+
 Terakhir saya membuat file main.py yang berisi code program untuk menyatukan semua fungsi yang ada di beberapa modul yang telah saya buat sebelumnya dengan mengimport modul dan fungsi yang akan saya pakai ke dalam main.py dan saya membuat perulanagn menggunakan ```while True:```  untuk mebuat perulangan pada pilihan menu yang akan tampil sebagai pilihan user.
 
 Berikut Code program ```main.py```
 ```bash
-import model
-import view
-import os
-
 while True:
     print("--------------")
     print("Pilihan Menu :")
@@ -148,19 +148,25 @@ while True:
 
 # Hasil Program 
 1. Tambah Data
+
 ![gambar1](ss/t.png)
 
 2. Lihat Data
+
 ![gambar2](ss/l.png)
 
 3. Hapus Data
+
 ![gambar3](ss/h.png)
 
 4. Ubah Data
+
 ![gambar4](ss/u.png)
 
 5. Cari Data
+
 ![gambar](ss/c.png)
 
 6. Keluar
+
 ![gambar](ss/k.png)
