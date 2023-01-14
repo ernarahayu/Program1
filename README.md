@@ -6,7 +6,7 @@ LIhat [disini!]()
 
 # File Pdf Tutorial Program
 
-Lihat [disini!](file:///C:/Users/Ernaa/Downloads/Tutorial%20Project%20UAS.pdf)
+Lihat [disini!]()
 
 
 # Ketentuan Program
