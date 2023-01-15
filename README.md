@@ -6,7 +6,7 @@ LIhat [disini!]()
 
 # File Pdf Tutorial Program
 
-Lihat [disini!]()
+Lihat [disini!](file:///D:/labs/Program1/Tutorial%20Project%20UAS.pdf/Tutorial Project UAS)
 
 
 # Ketentuan Program
