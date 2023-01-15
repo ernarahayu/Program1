@@ -1,13 +1,13 @@
 UAS Bahasa Pemrograman
+```bash
+Nama : Erna Rahayu
+NIM  : 312210054
+Kelas: TI.22.C1
+```
 
 # Link YouTube Tutorial Program
 
 Lihat [disini!]()
-
-# File Pdf Tutorial Program
-
-Lihat [disini!](https://drive.google.com/drive/my-drive/Tutorial Project UAS)
-
 
 # Ketentuan Program
 ![gambar](ss/1.png)
