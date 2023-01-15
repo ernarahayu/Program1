@@ -6,7 +6,7 @@ Lihat [disini!]()
 
 # File Pdf Tutorial Program
 
-Lihat [disini!](https://drive.google.com/drive/my-drive)
+Lihat [disini!](https://drive.google.com/drive/my-drive/Tutorial Project UAS)
 
 
 # Ketentuan Program
