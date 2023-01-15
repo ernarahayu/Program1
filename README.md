@@ -2,11 +2,11 @@ UAS Bahasa Pemrograman
 
 # Link YouTube Tutorial Program
 
-LIhat [disini!]()
+Lihat [disini!]()
 
 # File Pdf Tutorial Program
 
-Lihat [disini!](file:///D:/labs/Program1/Tutorial%20Project%20UAS.pdf/Tutorial Project UAS)
+Lihat [disini!](https://drive.google.com/drive/my-drive)
 
 
 # Ketentuan Program
