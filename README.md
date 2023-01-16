@@ -7,7 +7,10 @@ Kelas: TI.22.C1
 
 # Link YouTube Tutorial Program
 
-Lihat [disini!]()
+Lihat [disini!](https://www.youtube.com/watch?v=9t0WxIr6S28)
+
+# Link Tutorial Pdf
+Lihat [disini](https://drive.google.com/file/d/10pvDCadSlS12pYsF-f9pmMK1GsF0a0jw/view?usp=drivesdk)
 
 # Ketentuan Program
 ![gambar](ss/1.png)
